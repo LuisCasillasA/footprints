@@ -1,5 +1,13 @@
 # footprints
 
+## capturas de proyecto
+
+### Captura de página inicial.
+![](../captures/front1.PNG)
+
+### Captura de página que exhibe la problemática.
+![](../captures/front2.PNG)
+
 ## Project setup
 ```
 npm install
